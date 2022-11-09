@@ -7,7 +7,7 @@
 1. Fork this repository.
 2. Then clone your repository.
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Shashank1324/FolderClone-HRKBot
 ```
 3. Follow this [repository](https://github.com/xyou365/AutoRclone) to generate service accounts.
 4. Put all your service accounts (JSON Files) in `accounts` folder.
